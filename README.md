@@ -57,7 +57,9 @@ cd repo
 # Install dependencies
 
 ```
+### Load the file and Handling Missing values
 
+### Data Visualization
 
 ## Contributing
 
