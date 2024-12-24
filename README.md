@@ -82,6 +82,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Citation
 dibbelab, & Gennaro Gambardella. (2022). dibbelab/singlecell_bcatlas: Single-cell BC Atlas (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5939376
 
-## Acknowledgments
-
-[Nod Coding Bootcamp](https://nodcoding.com)
