@@ -1,4 +1,4 @@
-# Data_Visualization_Project
+# Single_Cell_RNA_sequncing_data_visualization
 
 An data visualizaiton project for analysing single cell RNA sequencing data from Gambardella, Viscido et al. 2022.
 In the project, the cancer subtpye specific gene transcription and distribution in single cell was analysed.
@@ -82,6 +82,3 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Citation
 dibbelab, & Gennaro Gambardella. (2022). dibbelab/singlecell_bcatlas: Single-cell BC Atlas (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.5939376
 
-## Acknowledgments
-
-[Nod Coding Bootcamp](https://nodcoding.com)
